@@ -193,11 +193,4 @@ python analysis.py
 - **Power BI Pipeline** — 3 enriched CSVs with different granularities for dashboard building
 - **Environmental Analytics** — Applied domain knowledge in climate and AQI data interpretation
 
----
-
-## Author
-
-**Rijan**  
-IT Officer & Computer Systems Engineering Student  
-📍 Kathmandu, Nepal  
-🔗 [GitHub](https://github.com/RijanBhattarai)
+--
