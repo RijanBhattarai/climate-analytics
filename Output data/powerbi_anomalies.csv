@@ -1,0 +1,1 @@
+date,city,region,avg_temp_c,max_temp_c,min_temp_c,rainfall_mm,humidity_pct,wind_speed_kmh,sunshine_hours,aqi,weather_condition,year,month_num,month_name,year_month,season,temp_range,heat_index,aqi_category,z_score,is_anomaly
