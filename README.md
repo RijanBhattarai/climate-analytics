@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) 
 
 An **intermediate-level** climate data analytics project analysing 5 years of monthly weather data across 5 Nepali cities (2020–2024). Features statistical anomaly detection, linear regression warming trends, correlation analysis, seasonal decomposition, AQI monitoring, and a full Power BI export pipeline.
-
+ 
 ---
 
 ## 📋 Table of Contents
