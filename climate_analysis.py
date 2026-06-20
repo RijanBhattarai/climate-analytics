@@ -1,15 +1,3 @@
-"""
-================================================================
-  Nepal Climate & Weather Analytics (2020–2024)
-  Author   : Rijan
-  Level    : Intermediate
-  Tools    : Python, Pandas, Matplotlib, Seaborn, SciPy, NumPy
-  Features : Trend analysis, anomaly detection, seasonal
-             decomposition, correlation matrix, rolling averages,
-             AQI analysis, and Power BI export pipeline
-================================================================
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
